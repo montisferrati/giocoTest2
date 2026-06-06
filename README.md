@@ -1,11 +1,11 @@
 # giocoTest2
 
-gioco_config.json
+gioco_config.json                   
 
-{
-  "updatedAt": "2026-06-05T13:00:00Z",
-  "minAppVersion": 1,
-  "latestTag": "v0.0.2",
-  "latestFolder": "release_v1",
-  "note": "Configurazione JSON di gioco"
+{                                              </br>
+  "updatedAt": "2026-06-06T13:00:00Z",         </br>
+  "minAppVersion": 1,                          </br>
+  "latestTag": "v0.0.3",                       </br>
+  "latestFolder": "release_v1",                </br>
+  "note": "Configurazione JSON di gioco"       </br>
 }
